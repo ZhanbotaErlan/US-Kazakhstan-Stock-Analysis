@@ -88,19 +88,6 @@ The Sharpe ratios reported in the notebook are 1.659 for the U.S. portfolio and 
 ## Future Work
 
 Potential extensions include expanding the sample, adding sector-matched comparisons or market indices, lengthening the common sample period, and recalculating the annual and downside strategy analyses after correcting warm-up handling. More realistic transaction-cost and cash-return assumptions could also be examined.
-
-## Repository Structure
-
-```text
-US-Kazakhstan-Stock-Analysis/
-├── README.md
-├── LICENSE
-├── paper.pdf
-├── Stock_Market_Analysis-2.ipynb
-├── requirements.txt
-└── figures/
-
-
 ## How to Run
 
 1. Clone or download this repository.
@@ -131,3 +118,17 @@ If you reference this project, please cite it as:
 ## License
 
 See `LICENSE` for the terms of use.
+
+## Repository Structure
+
+```text
+US-Kazakhstan-Stock-Analysis/
+├── README.md
+├── LICENSE
+├── paper.pdf
+├── Stock_Market_Analysis-2.ipynb
+├── requirements.txt
+└── figures/
+
+
+
