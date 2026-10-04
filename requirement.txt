@@ -2,4 +2,4 @@ pandas
 numpy
 matplotlib
 yfinance
-scipy
+notebook
